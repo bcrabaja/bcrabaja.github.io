@@ -35,6 +35,8 @@ Written by Berns Rabaja<br>Insert publishing date here
 </div>
 
 <p></p>
+<center><img src="books.jpg" width="500" height="300" alt="Seening"></img></center>
+<p></p>
 
 <div class="main">
 
