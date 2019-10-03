@@ -35,7 +35,7 @@ Written by Berns Rabaja<br>Insert publishing date here
 </div>
 
 <p></p>
-<center><img src="books.JPG" width="500" height="300" alt="books"></img></center>
+<center><img src="books.JPG" width="500" height="300" alt="Berns' comic book collection"></img></center>
 <p></p>
 
 <div class="main">
