@@ -1,4 +1,3 @@
-# bcrabaja.github.io
 <html>
 <head>
 <title>Seening | Main Page</title>
@@ -22,7 +21,9 @@ background: #b4d5cf}
 </center>
 </header>
 </head>
-
+<nav>
+ sstuff stuff
+</nav>
 
 
 <body>
