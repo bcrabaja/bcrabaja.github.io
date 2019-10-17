@@ -19,7 +19,7 @@ div.medium {font-family: "Helvetica", Arial, sans-serif;}
 
 div.credits {font-family: "Helvetica", Arial, sans-serif; text-align: right; color: white}
 
-div.cap {font-family: "Helvetica", Arial, sans-serif; text-align: center; color: white}
+div.cap {font-family: "Helvetica", Arial, sans-serif; text-align: center; color:  #ffa694}
 	
 
 div.light {color: #59877e;
@@ -61,7 +61,7 @@ Written by Berns Rabaja<br>Oct 17, Thursday
 <center><img src="damingtao.jpg" width=100% alt=""It's like a jungle out here!""></img></center>
 <div class="cap">Komiket drew a large crowd of art enthusiasts due to the diversity of the art and the merchandise. Photo by Christian Venus</div>
 
-	<p>
+<p>
  The low rent and freedom in the choice of merchandise is one of the things that Apolonio “Pol” Medina, creator of the Pugad Baboy comics, appreciates the most about the convention. Already with his 31st book (also marking his 31st year in the industry), Medina shared his gripe with mainstream publishers.
 	 </p><p>
  “Baka hindi payagan na ilabas yung comics ko ngayon, kasi may pagka-off beat eh: may kaunting nudity, may profanity,” he explained. “Pag nilabas ko yan sa mga mainstream na bookstores, baka hindi payagan.”
