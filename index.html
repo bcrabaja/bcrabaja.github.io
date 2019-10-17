@@ -9,6 +9,8 @@ body {background-image: url("lucas-lenzi-6p8G9gOP_4E-unsplash.jpg"); background-
 
 div.main {font-family: "Helvetica", Arial, sans-serif; color: #59877e; background: #e3f7f3; margin-left: 20%; margin-right: 20%; padding-left: 30px; padding-right: 30px; padding-top: 3px; padding-bottom: 3px; font-size: 13pt}
 
+	div.main p { text-indent: 5px; }
+	
 h1 {font-family: "Impact", Charcoal, sans-serif; color: #e3f7f3; text-align: center; font-size: 32pt; background-color: #59877e; margin-left: 20%; margin-right: 20%} 
 
 div.byline {font-family: Verdana, Geneva, sans-serif; background: transparent; color: white; margin-left: 21%; margin-right: 20%; padding-bottom: 1px; padding-left:20px; padding-right:20px; border-left: 5px solid #ffa694}
