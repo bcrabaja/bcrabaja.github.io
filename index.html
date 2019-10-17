@@ -39,10 +39,10 @@ background: #b4d5cf}
 <body>
 
 
-<h1>This is my article's headline</h1>
+<h1>Almost 600 artists attend Komiket art convention</h1>
 
 <div class="byline">
-Written by Berns Rabaja<br>Insert publishing date here
+Written by Berns Rabaja<br>Oct 17, Thursday
 </div>
 
 <p></p>
