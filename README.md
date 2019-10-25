@@ -55,7 +55,7 @@ Written by Berns Rabaja<br>Oct 17, Thursday
 <p></p>
 
 <div class="main">
-	<p> Over 580 comic and fanart creators mingle with fans and enthusiasts in the <a href="https://web.facebook.com/komiketph/">Komiket Comic Art Market </a> held at Centris Elements in Quezon City last weekend. 
+	<p> Over 580 comic and fanart creators mingle with fans and enthusiasts in the <a href="https://web.facebook.com/komiketph/">Komiket Comic Art Market</a> held at Centris Elements in Quezon City last weekend. 
  </p><p>
  Interested artists may apply for a booth, pay the rent of Php 6,000.00 per table, 
 	and bring their merchandise to the venue. The six thousand peso rent may also be shared by a maximum of three artists, which could bring the rent down to a minimum of Php 2,000.00 per person for the whole two days. Most of the exhibitors were online creators who make webcomics or fanart, but also include traditional comics creators and other, more niche creators like sculptors or jewelry-makers. </p>
