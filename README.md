@@ -19,8 +19,8 @@ div.medium {font-family: "Helvetica", Arial, sans-serif;}
 
 div.credits {font-family: "Helvetica", Arial, sans-serif; text-align: right; color: white}
 
-div.cap {font-family: "Helvetica", Arial, sans-serif; text-align: center; color:  #ffa694}
-	div.cap a {font-family: "Helvetica", Arial, sans-serif; text-align: center; color:  white}
+div.cap {font-family: "Helvetica", Arial, sans-serif; text-align: center; color:  white}
+	div.cap a {font-family: "Helvetica", Arial, sans-serif; text-align: center; color:  #ffa694}
 	
 div.light {color: #59877e; background: #b4d5cf}
 
@@ -49,7 +49,7 @@ Written by Berns Rabaja<br>Oct 17, Thursday
 
 <p></p>
 <center><img src="komiketbanner.jpg" width="900" height="300" alt="Komiket Poster"></img></center>
-<div class="cap"><br><font color="white">Photo from <a href="https://twitter.com/komiketph"> Komiket Twitter page </a> </font></div>
+<div class="cap"><br>Photo from <a href="https://twitter.com/komiketph"> Komiket Twitter page </a> <br> </div>
 <p></p>
 
 <div class="main">
