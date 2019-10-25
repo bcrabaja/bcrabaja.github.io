@@ -10,6 +10,7 @@ body {background-image: url("lucas-lenzi-6p8G9gOP_4E-unsplash.jpg"); background-
 div.main {font-family: "Helvetica", Arial, sans-serif; color: #246561; background: #e3f7f3; margin-left: 20%; margin-right: 20%; padding-left: 30px; padding-right: 30px; padding-top: 3px; padding-bottom: 3px; font-size: 13pt}
 
 	div.main p { text-indent: 25px; }
+	div.main a { color: #59877e }
 	
 h1 {font-family: "Impact", Charcoal, sans-serif; color: #e3f7f3; text-align: center;
 	font-size: 32pt; background-color: #59877e;} 
@@ -54,7 +55,7 @@ Written by Berns Rabaja<br>Oct 17, Thursday
 <p></p>
 
 <div class="main">
-	<p> Over 580 comic and fanart creators mingle with fans and enthusiasts in the Komiket Comic Art Market held at Centris Elements in Quezon City last weekend. 
+	<p> Over 580 comic and fanart creators mingle with fans and enthusiasts in the <a href="https://web.facebook.com/komiketph/">Komiket Comic Art Market </a> held at Centris Elements in Quezon City last weekend. 
  </p><p>
  Interested artists may apply for a booth, pay the rent of Php 6,000.00 per table, 
 	and bring their merchandise to the venue. The six thousand peso rent may also be shared by a maximum of three artists, which could bring the rent down to a minimum of Php 2,000.00 per person for the whole two days. Most of the exhibitors were online creators who make webcomics or fanart, but also include traditional comics creators and other, more niche creators like sculptors or jewelry-makers. </p>
@@ -70,7 +71,7 @@ Written by Berns Rabaja<br>Oct 17, Thursday
 	Fortunately, the entire venue is air-conditioned.</p>
 	
 <p>
- Despite the lack of space, Apolonio “Pol” Medina said he likes frequenting conventions like Komiket. The Pugad Baboy creator finds the rent relatively low, and he said he has more freedom in the choice of merchandise. Already with his 31st book (also marking his 31st year in the industry), Medina shared his gripe with mainstream publishers.
+ Despite the lack of space, Apolonio “Pol” Medina said he likes frequenting conventions like Komiket. The <a href="https://web.facebook.com/PugadBaboyPh/">Pugad Baboy</a> creator finds the rent relatively low, and he said he has more freedom in the choice of merchandise. Already with his 31st book (also marking his 31st year in the industry), Medina shared his gripe with mainstream publishers.
 	 </p>
 	
 	<p>
@@ -92,7 +93,7 @@ He also lamented that mainstream publishers and bookstores often take a large pe
 <div class="cap">Piper, Komikon 2019' youngest exhibitor, enjoys selling his stickers at Komiket, but also wants to someday be able to join other cons like Komikon or Stickercon. Photos (left to right) by Berns Rabaja and Christian Venus</div>
 	
 <p>
- Philippe, also known as “Art by Piper” or simply Piper, makes fanart of TV shows he likes, like Adventure Time, and sells stickers and prints of them. It’s his fifth Komiket in three years, having attended the South Komikets in Makati City as well. He’s assisted by his aunt, Kat Pineda, who shares that at first, Piper was just “salingkitkit”, or not really registered and just participating on a whim.
+	Philippe, also known as <a href="https://www.instagram.com/artbypiper/">Art by Piper</a> or simply Piper, makes fanart of TV shows he likes, like Adventure Time, and sells stickers and prints of them. It’s his fifth Komiket in three years, having attended the South Komikets in Makati City as well. He’s assisted by his aunt, Kat Pineda, who shares that at first, Piper was just “salingkitkit”, or not really registered and just participating on a whim.
 	 </p><p>
  “Yung unang beses, para talaga sa mom niya, sa booth ng Manila Art Post,” she said. “Nagkataon na hindi nakarating yung nasa katabing table, so pinagamit sa amin yung table na yun. Salingkitkit lang, kapag napagod, tigil na. Hanggang sa nagtuloy-tuloy.”
 	 </p><p>
