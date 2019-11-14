@@ -127,6 +127,7 @@ Written by Berns Rabaja<br>Nov 14, Thursday
 	Lead: #Hunghangsona trending
 	
 	Nutgraf: 2nd Interview with Pol Medina
+	STATEMENT: "Social media helped usher in a sort of 'renaissance' in Pinoy Komiks"
 	
 	Body:
 	What is a renaissance
