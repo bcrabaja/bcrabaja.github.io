@@ -4,7 +4,7 @@
 <style type="text/css">
 
 header {background: #ffa694; margin: 0; padding-top: 20px; padding-bottom: 0px;
-	font-family: "Impact", Charcoal, sans-serif; color: white; font-size: 150%
+	font-family: "Impact", Charcoal, sans-serif; color: white; font-size: 200%
 	position: fixed;
   top: 0;
   width: 100%;
