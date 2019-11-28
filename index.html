@@ -77,7 +77,7 @@ li a:hover {
 </center>
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li><a href="#articles">Articles</a></li>
+  <li><a href="articles.html">Articles</a></li>
   <li><a href="#about">About</a></li>
 </ul>
 </header>
