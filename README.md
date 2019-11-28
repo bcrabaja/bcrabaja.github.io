@@ -70,6 +70,15 @@ li a:hover {
 </style>
 
 
+
+	
+</head>
+
+
+
+<body>
+
+
 <header>
 <center>
 <img src="SeeningLogo.png" width="500" height="150" alt="Seening"></img>
@@ -81,13 +90,6 @@ li a:hover {
   <li><a href="#about">About</a></li>
 </ul>
 </header>
-	
-</head>
-
-
-
-<body>
-
 
 
 <div class="credits">
