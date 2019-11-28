@@ -4,7 +4,11 @@
 <style type="text/css">
 
 header {background: #ffa694; margin: 0; padding-top: 20px; padding-bottom: 0px;
-	font-family: "Impact", Charcoal, sans-serif; color: white; font-size: 150%}
+	font-family: "Impact", Charcoal, sans-serif; color: white; font-size: 150%
+	position: fixed;
+  top: 0;
+  width: 100%;
+	}
 
 body {background-image: url("lucas-lenzi-6p8G9gOP_4E-unsplash.jpg"); background-size: cover; background-color: #b4d5cf}
 
@@ -38,10 +42,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-position: fixed;
-  top: 0;
-  width: 100%;
-	background-color: #59877e 
+ background-color: #59877e
   
 }
 
